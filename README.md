@@ -1,2 +1,2 @@
 # test_waardelijsten
-Dit is een test.
+Dit is een testje.
