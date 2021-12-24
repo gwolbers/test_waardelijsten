@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutaties datum="2021-10-19">
-  <mutatie xpath="waardelijsten/versie" type="vervang">
-    <versie>2.1.0</versie>
+<mutaties op="../DSO/waardelijsten/archief/waardelijsten 2.0.0.xml" datum="2021-12-31">
+  <mutatie type="vervang" xpath="waardelijsten/versie">
+    <versie>2.0.1</versie>
   </mutatie>
-  <mutatie xpath="waardelijsten/publicatiedatum" type="vervang">
-    <publicatiedatum>2021-10-19</publicatiedatum>
-  </mutatie>
-  <mutatie xpath="waardelijsten/waardelijst[uri='http://standaarden.omgevingswet.overheid.nl/id/waardelijst/TypeGebiedsaanwijzing']/waarden" type="voegtoe">
-    <waarde>
-      <label>bouw</label>
-      <definitie>Object dat machineleesbaar maakt dat een Juridische regel in het omgevingsplan en de bijbehorende Locatie(s) gaan over de situering van bouwwerken.</definitie>
-      <toelichting>Alleen te gebruiken in het omgevingsplan.</toelichting>
-    </waarde>
+  <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
+    <publicatiedatum>2021-12-31</publicatiedatum>
   </mutatie>
 </mutaties>
