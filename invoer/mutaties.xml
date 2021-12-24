@@ -1,8 +1,8 @@
-<mutaties op="../DSO/waardelijsten/archief/waardelijsten 1.0.10.xml" datum="2021-06-10">
+<mutaties op="../DSO/waardelijsten/archief/waardelijsten 1.0.7.xml" datum="2020-12-15">
   <mutatie type="vervang" xpath="waardelijsten/versie">
-    <versie>1.0.10a</versie>
+    <versie>1.0.7a</versie>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
-    <publicatiedatum>2021-06-10</publicatiedatum>
+    <publicatiedatum>2020-12-15</publicatiedatum>
   </mutatie>
 </mutaties>
