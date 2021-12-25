@@ -1,2 +1,2 @@
-Vervang de inhoud van versie door '2.0.0a'.
+Vervang de inhoud van versie door '2.0.0c'.
 Vervang de inhoud van publicatiedatum door '2021-06-29'.
