@@ -1,12 +1,9 @@
 <?xml version="1.0"?>
-<mutaties op="../DSO/waardelijsten/archief/waardelijsten 2.0.0.xml" datum="2022-01-03">
+<mutaties op="archief/waardelijsten 2.0.0.xml" datum="2021-06-29">
   <mutatie type="vervang" xpath="waardelijsten/versie">
     <versie>2.0.1</versie>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
-    <publicatiedatum>2022-01-03</publicatiedatum>
-  </mutatie>
-  <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Aansluitactiviteit']/toelichting">
-    <toelichting>[Andere toelichting]</toelichting>
+    <publicatiedatum>2021-06-29</publicatiedatum>
   </mutatie>
 </mutaties>
