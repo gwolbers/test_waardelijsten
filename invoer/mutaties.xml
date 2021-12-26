@@ -7,6 +7,6 @@
     <publicatiedatum>2022-01-03</publicatiedatum>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Aansluitactiviteit']/toelichting">
-    <toelichting>[Toelichting]</toelichting>
+    <toelichting>[Andere toelichting]</toelichting>
   </mutatie>
 </mutaties>
