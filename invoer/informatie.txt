@@ -1,1 +1,3 @@
-Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit' de inhoud van toelichting door '[Toelichting]'.
+Vervang de inhoud van versie door '2.0.1'.
+Vervang de inhoud van publicatiedatum door '2022-01-03'.
+Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Aansluitactiviteit' de inhoud van toelichting door '[Toelichting]'.
