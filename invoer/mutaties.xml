@@ -1,12 +1,23 @@
 <?xml version="1.0"?>
-<mutaties op="archief/waardelijsten 2.0.0.xml" datum="2021-12-31">
+<mutaties op="archief/waardelijsten 2.1.0.xml" datum="2022-01-19">
   <mutatie type="vervang" xpath="waardelijsten/versie">
-    <versie>2.0.1</versie>
+    <versie>2.1.1</versie>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
-    <publicatiedatum>2021-12-31</publicatiedatum>
+    <publicatiedatum>2022-01-19</publicatiedatum>
   </mutatie>
-  <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/AgrarischeActiviteit']/toelichting">
-    <toelichting>test</toelichting>
+  <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg']/toelichting">
+    <toelichting>Toelichting</toelichting>
+  </mutatie>
+  <mutatie type="verwijder" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Alarminstallatieactiviteit']"/>
+  <mutatie type="voegtoe" xpath="waardelijsten/waardelijst[uri='http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Activiteitengroep']/waarden">
+    <waarde>
+      <label>iets</label>
+      <definitie>definitie</definitie>
+      <toelichting/>
+      <bron/>
+      <domein>http://standaarden.omgevingswet.overheid.nl/id/conceptscheme/Activiteit</domein>
+      <symboolcode/>
+    </waarde>
   </mutatie>
 </mutaties>
