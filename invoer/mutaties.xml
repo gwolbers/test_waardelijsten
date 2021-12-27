@@ -6,4 +6,7 @@
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
     <publicatiedatum>2021-12-31</publicatiedatum>
   </mutatie>
+  <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/AgrarischeActiviteit']/toelichting">
+    <toelichting>test</toelichting>
+  </mutatie>
 </mutaties>
