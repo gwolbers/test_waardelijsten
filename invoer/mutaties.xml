@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<mutaties op="archief/waardelijsten 2.0.0.xml" datum="2021-06-29">
+<mutaties op="archief/waardelijsten 2.1.0.xml" datum="2021-10-30">
   <mutatie type="vervang" xpath="waardelijsten/versie">
-    <versie>2.0.1</versie>
+    <versie>2.1.1</versie>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
-    <publicatiedatum>2021-06-29</publicatiedatum>
+    <publicatiedatum>2021-10-30</publicatiedatum>
   </mutatie>
 </mutaties>
