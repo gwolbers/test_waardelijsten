@@ -1,5 +1,2 @@
-Vervang de inhoud van versie door '2.1.1'.
-Vervang de inhoud van publicatiedatum door '2022-01-19'.
-Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg' de inhoud van toelichting door 'Toelichting'.
-Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Alarminstallatieactiviteit'.
-Voeg aan waardelijst met uri='http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Activiteitengroep' een waarde toe met label is 'iets', definitie is 'definitie', toelichting is '', bron is '', domein is 'http://standaarden.omgevingswet.overheid.nl/id/conceptscheme/Activiteit', symboolcode is ''.
+Vervang de inhoud van versie door '1.0.10a'.
+Vervang de inhoud van publicatiedatum door '2021-06-10'.
