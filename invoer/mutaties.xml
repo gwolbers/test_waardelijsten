@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><mutaties op="archief/waardelijsten 1.0.10.xml" datum="2021-06-10">
+  <mutatie type="vervang" xpath="waardelijsten/versie">
+    <versie>1.0.10a</versie>
+  </mutatie>
+  <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
+    <publicatiedatum>2021-06-10</publicatiedatum>
+  </mutatie>
+</mutaties>
