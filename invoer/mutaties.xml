@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mutaties op="archief/waardelijsten 2.1.0.xml" datum="2022-01-26">
+<mutaties op="archief/waardelijsten 2.1.0.xml" datum="2022-01-01">
   <mutatie type="vervang" xpath="waardelijsten/versie">
     <versie>2.1.1</versie>
   </mutatie>
   <mutatie type="vervang" xpath="waardelijsten/publicatiedatum">
-    <publicatiedatum>2022-01-26</publicatiedatum>
+    <publicatiedatum>2022-01-01</publicatiedatum>
+  </mutatie>
+  <mutatie type="verwijder" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg']"/>
+  <mutatie type="vervang" xpath="waardelijsten//waarde[uri='http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Vaarweg']/toelichting">
+    <toelichting>Elk water dat openstaat voor scheepvaartverkeer.</toelichting>
+  </mutatie>
+  <mutatie type="voegtoe" xpath="waardelijsten/waardelijst[uri='http://standaarden.omgevingswet.overheid.nl/id/waardelijst/Verkeergroep']/waarden">
+    <waarde>
+      <label>nieuwe waarde</label>
+      <definitie>[Definitie]</definitie>
+      <toelichting>[Toelichting]</toelichting>
+      <bron/>
+      <domein>http://standaarden.omgevingswet.overheid.nl/id/conceptscheme/Verkeer</domein>
+      <symboolcode/>
+    </waarde>
   </mutatie>
 </mutaties>
