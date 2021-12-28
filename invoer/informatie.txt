@@ -1,2 +1,2 @@
-Vervang de inhoud van versie door '1.0.10a'.
-Vervang de inhoud van publicatiedatum door '2021-06-10'.
+Vervang de inhoud van versie door '1.0.6a'.
+Vervang de inhoud van publicatiedatum door '2020-11-17'.
