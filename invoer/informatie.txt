@@ -1,4 +1,2 @@
 Vervang de inhoud van versie door '2.1.1'.
-Vervang de inhoud van publicatiedatum door '2022-01-10'.
-Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Spoorweg' de inhoud van toelichting door '[Toelichting]'.
-Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg'.
+Vervang de inhoud van publicatiedatum door '2022-01-26'.
