@@ -1,4 +1,4 @@
+Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/AantalWinkels' de inhoud van toelichting door '[Toelichting]'.
 Vervang de inhoud van versie door '2.1.1'.
 Vervang de inhoud van publicatiedatum door '2022-01-31'.
-Vervang van waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWaterstaatswerk' de inhoud van toelichting door '[Toelichting]'.
-Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/BeperkingengebiedactiviteitMBTEenWeg'.
+Verwijder waarde met uri='http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/AantalBezoekers'.
