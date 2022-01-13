@@ -1668,8 +1668,8 @@
             <label>bodemdalingsgebied</label>
             <term>Bodemdalingsgebied</term>
             <uri>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodemdalingsgebied</uri>
-            <definitie>Waarde voor attribuut groep bij Gebiedsaanwijzingtype Bodem voor het aanwijzen van een gebied waar specifieke regels of beleid in verband met de daar optredende bodemdaling gelden.</definitie>
-            <toelichting>Er zijn gebieden waar reguliere maatregelen van  het waterschap onvoldoende zijn om de gevolgen van bodemdaling op te vangen. Een gecombineerde aanpak met extra maatregelen gericht op watersysteem en landgebruik kan dan nodig zijn.</toelichting>
+            <definitie>Waarde voor attribuut groep bij Gebiedsaanwijzingtype Bodem voor het aanwijzen van een gebied waar specifieke regels of beleid in verband met de daar optredende bodemdaling gelden.</definitie>
+            <toelichting>Er zijn gebieden waar reguliere maatregelen van het waterschap onvoldoende zijn om de gevolgen van bodemdaling op te vangen. Een gecombineerde aanpak met extra maatregelen gericht op watersysteem en landgebruik kan dan nodig zijn.</toelichting>
             <bron/>
             <domein>http://standaarden.omgevingswet.overheid.nl/id/conceptscheme/Bodem</domein>
             <specialisatie/>
@@ -6182,7 +6182,7 @@
             <term>KleinschaligeVoorzieningen</term>
             <uri>http://standaarden.omgevingswet.overheid.nl/recreatie/id/concept/KleinschaligeVoorzieningen</uri>
             <definitie>Waarde voor attribuut groep bij het Gebiedsaanwijzingtype Recreatie voor het aanwijzen van een gebied voor kleinschalige dag- en/of verblijfsrecreatie.</definitie>
-            <toelichting>Gebied waarin kleinschalige dag-en/of verblijfsrecreatie plaatsvindt, zoals voorzieningen voor wandelen, fietsen, vissen, kanoeen, kleine campings, B&amp;B, kleine pensions, etc .</toelichting>
+            <toelichting>Gebied waarin kleinschalige dag-en/of verblijfsrecreatie plaatsvindt, zoals voorzieningen voor wandelen, fietsen, vissen, kanoeen, kleine campings, B&amp;B, kleine pensions, etc.</toelichting>
             <bron/>
             <domein>http://standaarden.omgevingswet.overheid.nl/id/conceptscheme/Recreatie</domein>
             <specialisatie/>
@@ -9709,7 +9709,7 @@
             </geldigheid>
          </waarde>
          <waarde>
-            <label>aantal bezoekers </label>
+            <label>aantal bezoekers</label>
             <term>AantalBezoekers</term>
             <uri>http://standaarden.omgevingswet.overheid.nl/typenorm/id/concept/AantalBezoekers</uri>
             <definitie>Waarde voor attribuut type bij de objecten Omgevingsnorm en Omgevingswaarde, te gebruiken in combinatie met waarde bedrijvigheid van waardelijst Omgevingsnormgroep.</definitie>
